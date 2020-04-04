@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Cloud Storage</string>
+    <string name="upload_button">Upload</string>
+    <string name="cloud_storage">Cloud Storage</string>
+    <string name="download">Download</string>
+    <string name="upload">Upload</string>
+    <string name="storage">Storage</string>
 </resources>
